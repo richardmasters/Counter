@@ -1,0 +1,18 @@
+body {
+    background-color: blue;
+    color: green;
+}
+h1 {
+    text-align: center;
+    size: 10%;
+}
+#value {
+    text-align: center;
+}
+.hi {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 250px;
+}
