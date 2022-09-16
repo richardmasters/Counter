@@ -4,15 +4,20 @@ body {
 }
 h1 {
     text-align: center;
-    size: 10%;
+    margin-bottom: 25px;
+    
 }
 #value {
+    font-size: 50px;
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
 .hi {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top: 50px;
     margin-left: 250px;
     margin-right: 250px;
 }
